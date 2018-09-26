@@ -26,16 +26,4 @@ lein cljsbuild once min
 
 ```
 
-<script src="https://www.gstatic.com/firebasejs/5.1.0/firebase.js"></script>
-<script>
-  // Initialize Firebase
-  var config = {
-    apiKey: "AIzaSyDH2BL89dq3MXiTue-HZVXqBY0rVCTfC0k",
-    authDomain: "jabirudata.firebaseapp.com",
-    databaseURL: "https://jabirudata.firebaseio.com",
-    projectId: "jabirudata",
-    storageBucket: "",
-    messagingSenderId: "244548270032"
-  };
-  firebase.initializeApp(config);
-</script>
+
